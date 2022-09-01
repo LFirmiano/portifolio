@@ -26,6 +26,13 @@
 <li>https://biancavita.com/v2/formacao-cadastro</li>
 </ul>
 
+<h3>SISTEMAS DESENVOLVIDOS</h3>
+<ul>
+<li>https://agentesdalegria.com.br/</li>
+<li>Sitema ERP da CABEMCE (Caixa Beneficente dos Militares do Ceará)</li>
+</ul>  
+  
+  
 <h3>APPS DESENVOLVIDOS</h3>
 
 <ul>
@@ -33,7 +40,7 @@
 <li>http://matias.profia.com.br/</li>
 </ul>
 
-<h3>BOTS DESENVOLVIDOS </h3>
+<h3>BOTS DE AUTOATENDIMENTO DESENVOLVIDOS </h3>
 
 <ul>
 <li>https://boleto.cabemce.com.br/</li>
