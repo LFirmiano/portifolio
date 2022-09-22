@@ -23,6 +23,7 @@
 <li>https://dicasdopadrinho.com/v2/principium</li>
 <li>https://dicasdopadrinho.com/v2/oobviosecreto</li>
 <li>https://biancavita.com/v2/yoga-para-iniciantes</li>
+<li>https://biancavita.com/v2/os-7-portais-interiores</li>
 <li>https://biancavita.com/v2/yoga-para-iniciantes-vsl</li>
 <li>https://biancavita.com/v2/formacao-cadastro</li>
 </ul>
