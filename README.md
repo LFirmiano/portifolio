@@ -13,6 +13,7 @@
 <li>https://farmaconapratica.com.br/v2/farmacoflix-dm</li>
 <li>https://clientes.agenciatitanio.com.br/eleva/elite/bolsao2023/</li>
 <li>https://reformularengenharia.com.br/</li>
+<li>https://kleberpimentel.com/v4/pag-apendicite-v1</li>
 <li>https://cabemce.com.br/</li>
 <li>https://eventoverso.com.br/</li>
 </ul>
@@ -21,8 +22,10 @@
 <ul>
 <li>https://agentesdalegria.com.br/</li>
 <li>https://app.geolivre.com.br/</li>
-<li>Sistema ERP da GTA (Grupo Transitar)/</li>
+<li>https://xgoal360.com/</li>
+<li>Sistema ERP da GTA (Grupo Transitar)</li>
 <li>Sitema ERP da CABEMCE (Caixa Beneficente dos Militares do Ceará)</li>
+<li>Sitema ERP da EVENTOVERSO</li>
 </ul>  
   
   
