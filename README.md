@@ -8,8 +8,9 @@
 <h3>WEBSITES DESENVOLVIDOS</h3>
 
 <ul>
-<li>http://bodsmidias.com.br/</li>
 <li>https://farmaconapratica.com.br/v2/farmacoflix</li>
+<li>https://farmaconapratica.com.br/v2/farmacoflix-ss</li>
+<li>https://farmaconapratica.com.br/v2/farmacoflix-dm</li>
 <li>https://clientes.agenciatitanio.com.br/eleva/elite/bolsao2023/</li>
 <li>https://reformularengenharia.com.br/</li>
 <li>https://cabemce.com.br/</li>
