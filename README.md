@@ -14,24 +14,14 @@
 <li>https://clientes.agenciatitanio.com.br/eleva/elite/bolsao2023/</li>
 <li>https://reformularengenharia.com.br/</li>
 <li>https://cabemce.com.br/</li>
-<li>https://dicasdopadrinho.com/v2/preliminar</li>
-<li>https://dicasdopadrinho.com/v2/cativar</li>
-<li>https://dicasdopadrinho.com/v2/encantar</li>
-<li>https://dicasdopadrinho.com/v2/libertar</li>
-<li>https://dicasdopadrinho.com/v2/cativar</li>
-<li>https://dicasdopadrinho.com/v2/despertar</li>
-<li>https://dicasdopadrinho.com/v2/sussurro</li>
-<li>https://dicasdopadrinho.com/v2/principium</li>
-<li>https://dicasdopadrinho.com/v2/oobviosecreto</li>
-<li>https://biancavita.com/v2/yoga-para-iniciantes</li>
-<li>https://biancavita.com/v2/os-7-portais-interiores</li>
-<li>https://biancavita.com/v2/yoga-para-iniciantes-vsl</li>
-<li>https://biancavita.com/v2/formacao-cadastro</li>
+<li>https://eventoverso.com.br/</li>
 </ul>
 
 <h3>SISTEMAS DESENVOLVIDOS</h3>
 <ul>
 <li>https://agentesdalegria.com.br/</li>
+<li>https://app.geolivre.com.br/</li>
+<li>Sistema ERP da GTA (Grupo Transitar)/</li>
 <li>Sitema ERP da CABEMCE (Caixa Beneficente dos Militares do Ceará)</li>
 </ul>  
   
